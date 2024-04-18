@@ -1,0 +1,29 @@
+.bodycard {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.bodycard img {
+  width: 20%;
+  height: 20%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.skillcard {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  width: 200px; 
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cardgroup {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
