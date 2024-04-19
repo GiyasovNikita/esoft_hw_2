@@ -1,8 +1,16 @@
-# React + Vite
+1. Создать репозиторий в github/gitlab с дз
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2. В рамках работы с реактом:
+2.1 Создать React приложение
+2.2. Добавить в него большую карточку с:
+2.2.1: Любое фото
+2.2.2. ФИО
+2.3 Создать 4 карточки с вашими компетенциями 
+2.4. Создать 10 карточек с технологиями компетенциями, который вы бы хотели изучить
+2.5 Можете добавить любые другие элементы на страницу, для отработки практики
+2.6 Попытайтесь декомпозировать все на максимально маленькие гибкие (передавайте в них props'ы,
+как мы на лекции делали)
+2.7 Все компоненты должны быть разбиты на отдельные файлы и вынесены в отдельную папку 'components'
+2.8 Можете сделать все, что желает ваша душа для практики)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+3. Закоммитить и пушнуть в репозиторий
